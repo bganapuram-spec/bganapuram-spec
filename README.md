@@ -23,7 +23,7 @@ I'm a CS grad student at **Santa Clara University** (MS, 2027, GPA: 3.92) with a
 ### 🚀 Recent projects
 
 - **[SkinGPT](https://github.com/bganapuram-spec/skingpt):** agentic AI dermatology assistant with a ReAct loop, RAG memory and LLaMA 3.1
-- **GuideEye:** real-time AI navigation for the visually impaired using AWS SageMaker and Bedrock
+- **[GuideEye](https://github.com/bganapuram-spec/GuideEye):** real-time AI navigation for the visually impaired using AWS SageMaker and Bedrock
 - **[EntryWay](https://github.com/bganapuram-spec/entryway):** ticketless QR-based entry system (MERN stack)
 - **[EventTracker](https://github.com/bganapuram-spec/EventTracker):** smart mobile event management app with location-aware notifications
 
